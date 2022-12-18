@@ -3119,7 +3119,8 @@ public class Tela extends javax.swing.JFrame {
     }//GEN-LAST:event_BotaoGerarRelatorioDisciplinasActionPerformed
 
     private void BotaoSalvarEditacaoNotasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BotaoSalvarEditacaoNotasActionPerformed
-        // TODO add your handling code here:
+        //TabelaAlunosEditarNotas;
+        //TebelaParaEditarNotas;
     }//GEN-LAST:event_BotaoSalvarEditacaoNotasActionPerformed
 
     private void BotaoSalvarEditacaoDisciplinaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BotaoSalvarEditacaoDisciplinaActionPerformed
